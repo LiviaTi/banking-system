@@ -9,12 +9,13 @@
 - Criar conta corrente = Vinculada ao usuário
 - Listar contas
 
-<img align="center" src="https://github.com/LiviaTi/banking-system/blob/master/img/img1.JPG">
+<img align="center" src="https://raw.githubusercontent.com/LiviaTi/banking-system/master/img/img1.JPG">
 <br/>
 Exemplo Extrato:
 <br/>
-<img align="center" src="https://github.com/LiviaTi/banking-system/blob/master/img/img2.JPG">
+<img align="center" src="https://raw.githubusercontent.com/LiviaTi/banking-system/master/img/img2.JPG">
 <br/>
 Exemplo Listar contas:
 <br/>
-<img align="center" src="https://github.com/LiviaTi/banking-system/blob/master/img/img3.JPG">
+<img align="center" src="https://raw.githubusercontent.com/LiviaTi/banking-system/master/img/img3.JPG">
+
