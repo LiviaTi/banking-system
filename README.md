@@ -1,7 +1,6 @@
 
 ### Desafio:
-- Criar um sistema bancário com operações: sacar, depositar e visualizar status.
-<img align="center" src="https://github.com/LiviaTi/banking-system/blob/master/img/img1.JPG">
+<h3>Criar um sistema bancário com operações: </h3>
 
 - Depositar = Restrição (Não pode valor negativo)
 - Sacar = Restrição (Limite de 3 saques diários, máximo de R$500,00 por saque)
@@ -9,7 +8,7 @@
 - Criar usuário
 - Criar conta corrente = Vinculada ao usuário
 - Listar contas
-<br/>
+
 <br/>
 Exemplo Extrato:
 <br/>
